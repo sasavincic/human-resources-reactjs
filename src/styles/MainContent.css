@@ -1,0 +1,15 @@
+#filterButtonList {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+#filterButtonList li {
+  display: flex;
+  list-style: none;
+  margin-right: 10px;
+}
+
+#formDepartmentSelect {
+  width: 15vw;
+}
